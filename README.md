@@ -8,3 +8,4 @@
 | 43165. 타겟 넘버 | [링크](https://github.com/woneeeee/daily_algorithm/tree/main/43165.%20%ED%83%80%EA%B2%9F%E2%80%85%EB%84%98%EB%B2%84) |
 | 72413. 합승 택시 요금 | [링크](https://github.com/woneeeee/daily_algorithm/tree/main/72413.%20%ED%95%A9%EC%8A%B9%E2%80%85%ED%83%9D%EC%8B%9C%E2%80%85%EC%9A%94%EA%B8%88) |
 | 181940. 문자열 곱하기 | [링크](https://github.com/woneeeee/daily_algorithm/tree/main/181940.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B3%B1%ED%95%98%EA%B8%B0) |
+| 468371. 노란불 신호등 | [링크](https://github.com/woneeeee/daily_algorithm/tree/main/468371.%20%EB%85%B8%EB%9E%80%EB%B6%88%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1) |
